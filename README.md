@@ -1,2 +1,3 @@
 # Songsterr-Downloader
-A small WPF application for downloading tabs individually or in tabs from a website songsterr.com
+
+A small WPF application for parsing and downloading .gp files from the website songsterr.com
